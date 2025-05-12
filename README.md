@@ -1,1 +1,8 @@
-# scream.decision
+# avs.basic
+Scream project (SCREAM): Numerical data
+
+The repository contains data and material associated with the academic article:
+
+Beiines G, Skjegstad CFrühholz S (2025). Differential neural decoding of alarm and avoidance information from vocal alarm calls. Emotion.
+
+The content of the repository is released under a Creative Commons Attribution-NonCommercial 4.0 International License, CC BY-NC-ND. 
