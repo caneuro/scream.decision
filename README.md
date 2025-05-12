@@ -1,4 +1,4 @@
-# avs.basic
+# scream.decision
 Scream project (SCREAM): Numerical data
 
 The repository contains data and material associated with the academic article:
